@@ -4,5 +4,14 @@ body {
     
 }
 #div1{
-    color: red;
+    color: blueviolet;
+}
+.part2_link{
+    color:blue;
+    text-decoration: underline;
+}
+
+.part2_link:active{
+    color:blue;
+    text-decoration: underline;
 }
